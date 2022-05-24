@@ -1,32 +1,10 @@
 body{
-    background-position: center;
-    width: 100%;
-    margin: 0 auto;
-    display: flex;
-    padding: 20px;
-    justify-content: flex-start;
+    background-position: center ;
+
 }
 .one{
     border: 1px solid black;
     width: 500px;
     background-color: antiquewhite;
     margin-left: 500px;
-
-}
-.one h1{
-    display: flex;
-    justify-content: center;
-}
-.header {
-    text-align: center;
-}
-.nut{
-
-    width: 20%;
-    line-height: 26px;
-
-}
-.tien{
-    width: 56%;
-    line-height: 26px;
 }
